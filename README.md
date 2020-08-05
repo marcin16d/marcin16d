@@ -1,4 +1,4 @@
-### Hi there 👋 :point_left:
+### Hi there 👋
 
 <!--
 **marcin16d/marcin16d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
