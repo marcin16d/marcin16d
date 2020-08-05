@@ -2,7 +2,7 @@
 
 <!--
 **marcin16d/marcin16d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+:point_left:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
